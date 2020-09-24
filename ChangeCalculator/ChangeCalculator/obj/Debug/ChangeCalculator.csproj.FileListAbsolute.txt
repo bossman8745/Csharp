@@ -1,0 +1,9 @@
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.frmChangeCalculator.resources
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Properties.Resources.resources
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.GenerateResource.Cache
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+E:\Desktop Backup\C# Programming\Ch5\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb

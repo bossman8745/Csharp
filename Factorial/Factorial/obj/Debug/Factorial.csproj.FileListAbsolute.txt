@@ -1,0 +1,9 @@
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\bin\Debug\Factorial.exe.config
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\bin\Debug\Factorial.exe
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\bin\Debug\Factorial.pdb
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\obj\Debug\Factorial.frmFactorialCalculator.resources
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\obj\Debug\Factorial.Properties.Resources.resources
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.Cache
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\obj\Debug\Factorial.exe
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\obj\Debug\Factorial.pdb
+E:\Desktop Backup\C# Programming\Ch5\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
