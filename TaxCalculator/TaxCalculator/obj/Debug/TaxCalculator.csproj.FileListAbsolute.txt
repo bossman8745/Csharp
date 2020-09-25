@@ -1,0 +1,9 @@
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frmIncomeTaxCalculator.resources
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.Cache
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+E:\Desktop Backup\C# Programming\Ch5\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
